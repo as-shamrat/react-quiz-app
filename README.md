@@ -47,7 +47,7 @@ After completing all questions, a summary screen shows performance statistics.
 
 Clone the repository
 
-git clone https://github.com/as--shamrat/react-quiz-app.git
+git clone https://github.com/as-shamrat/react-quiz-app.git
 
 Navigate into the project folder
 
